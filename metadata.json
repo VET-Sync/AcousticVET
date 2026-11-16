@@ -1,6 +1,0 @@
-{
-  "name": "VetAcoustics",
-  "description": "Premium iPad-first clinical digital auscultation, anatomical landmark guidance, WAV signal capture, and acoustic spectrogram analysis for veterinarians.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
